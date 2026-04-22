@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "despliege", "despliege.csproj", "{8C6C5D51-4233-406A-8D7D-E26FC203B63C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C6C5D51-4233-406A-8D7D-E26FC203B63C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6C5D51-4233-406A-8D7D-E26FC203B63C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6C5D51-4233-406A-8D7D-E26FC203B63C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6C5D51-4233-406A-8D7D-E26FC203B63C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE14EC15-3ED7-4013-A777-4CBA46B41E03}
+	EndGlobalSection
+EndGlobal
