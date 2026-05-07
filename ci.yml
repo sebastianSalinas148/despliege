@@ -1,0 +1,19 @@
+name: CI ISUR
+
+on:
+  push:
+    branches: [ "master" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar código
+        uses: actions/checkout@v3
+
+      - name: Mostrar archivos
+        run: ls
+
+      - name: Mensaje
+        run: echo "Pipeline ejecutado correctamente"
