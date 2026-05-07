@@ -1,0 +1,2 @@
+- name: Mensaje extra
+  run: echo "Activando pipeline"
